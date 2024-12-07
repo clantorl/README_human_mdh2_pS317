@@ -1,4 +1,4 @@
-# human MDH2
+# Human MDH2
 # Uniprot ID: P40926
 # Variation: Phosphorylation of S317
 
